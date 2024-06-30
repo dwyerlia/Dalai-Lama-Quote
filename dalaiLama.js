@@ -5,7 +5,7 @@
 //4. conditional that will assign a quote to the variable that will be read
 //5. Display quote
 
-let userName = 'Liam';
+let userName = 'Megan';
 
 userName ? console.log(`Hello ${userName}!`) : console.log('Hello!');
 
