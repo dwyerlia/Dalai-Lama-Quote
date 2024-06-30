@@ -20,7 +20,7 @@ switch(randomNumber){
         quote = '“Share your knowledge. It is a way to achieve immortality.”';
         break;
     case 1:
-        quote = '“Once a year, go somewhere you’ve never been before.”';
+        quote = '“Once a year, go somewhere you have never been before.”';
         break;
     case 2:
         quote = '“Know the rules well, so you can break them effectively.”';
